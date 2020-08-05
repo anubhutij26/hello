@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="48" started-at="2020-07-19T09:12:30 PDT" finished-at="2020-07-19T09:12:30 PDT">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="48" started-at="2020-07-19T09:12:30 PDT" finished-at="2020-07-19T09:12:30 PDT">
+      <class name="qaclickacademy.Mavenproject1.AppiumTest">
+        <test-method status="PASS" signature="Appiumteste()[pri:0, instance:qaclickacademy.Mavenproject1.AppiumTest@a67c67e]" name="Appiumteste" duration-ms="5" started-at="2020-07-19T09:12:30 PDT" finished-at="2020-07-19T09:12:30 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumteste -->
+        <test-method status="PASS" signature="Appiumtestex()[pri:0, instance:qaclickacademy.Mavenproject1.AppiumTest@a67c67e]" name="Appiumtestex" duration-ms="1" started-at="2020-07-19T09:12:30 PDT" finished-at="2020-07-19T09:12:30 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumtestex -->
+        <test-method status="PASS" signature="Appiumtestexample()[pri:0, instance:qaclickacademy.Mavenproject1.AppiumTest@a67c67e]" name="Appiumtestexample" duration-ms="0" started-at="2020-07-19T09:12:30 PDT" finished-at="2020-07-19T09:12:30 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Appiumtestexample -->
+      </class> <!-- qaclickacademy.Mavenproject1.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
